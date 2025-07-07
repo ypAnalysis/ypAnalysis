@@ -1,9 +1,14 @@
 # About me
 
-Research - Data Analytics - High-Performance Sports
+I’m a researcher and developer working at the intersection of sports science, data analytics, and technology. I’m passionate about building tools, interfaces, and models that make data more accessible, interpretable, and actionable.
 
-As a PhD student and Research Associate at the German Sports University Cologne, I have all the important things that are relevant for the areas mentioned: theoretical knowledge about high-performance sports and scientific work, practical experience and education as well as technical knowledge in handling data.
+As part of my PhD at the German Sport University Cologne, I’m building a new machine learning framework for soccer performance analysis, combining data-driven modeling with real-world sports context.
+In parallel, I contribute as a Research Associate to the SportVid project — a platform for individual and team sport analysis — where I’m primarily responsible for frontend development using modern web technologies.
 
-Studying high-performance sports opened the possibility to do research in the field of sports informatics and sports game research (https://orcid.org/0009-0009-7931-2579). In addition, I applied the skills I have learned in practice as a Data Analyst at Rot-Weiss Essen. Be sure to check out Github (https://github.com/ypAnalysis) and Twitter (https://twitter.com/ypAnalysis) for more insights.
+With an academic background in high-performance sports (BSc & MSc), practical football experience (UEFA B license), and applied analytics work (Rot-Weiss Essen), I bring a rare combination of domain expertise, technical skills, and research mindset.
 
-Proficient in data processing, analysis, and visualization using Python, R, and Excel, as well as scientific research and writing. UEFA B-Level license holder.
+Interests: ML, AI, data analytics, applied sport informatics, visual interfaces for analysis.
+
+Let’s connect if you're working on similar challenges or want to exchange ideas.
+
+🔗 GitHub: https://github.com/ypAnalysis | ORCID: https://orcid.org/0009-0009-7931-2579
